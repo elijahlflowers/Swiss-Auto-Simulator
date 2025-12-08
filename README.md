@@ -9,5 +9,10 @@ Secondly, as much I have made an attempt at an accurate prediction software, ple
 
 Lastly, I will try to explain more in-depth on how some of the values found in the project are calculated and utilized in the simulation process.
 
+## Example images
 
+![[StarLadderBudapestStage3Example.png]]
+
+![[Pasted image 20251208032725.png]]
+![[Pasted image 20251208032927.png]]
 (work in progress)

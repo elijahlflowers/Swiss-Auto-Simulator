@@ -19,8 +19,8 @@ Secondly, as much I have made an attempt at an accurate prediction software, ple
 Insert the .tres file into the following folder:
 C:\Users\yourname\AppData\Roaming\Godot\app_userdata\CS2MajorPredictor\Saves
 
-![SavesInFolder](SavesFileExample.png)
+![SavesInFolder](ExampleImages/SavesFileExample.png)
 
 If it works, you should be able to see the save populated in the list within the program.
 
-![SavesInProgram](SavesProgramExample.png)
+![SavesInProgram](ExampleImages/SavesProgramExample.png)

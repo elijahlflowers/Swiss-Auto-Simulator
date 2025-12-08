@@ -12,7 +12,9 @@ Lastly, I will try to explain more in-depth on how some of the values found in t
 ## Example images
 
 ![[StarLadderBudapestStage3Example.png]]
+![[SwissSimulatorExample.png]]
+![[PlayoffsExample.png]]
 
-![[Pasted image 20251208032725.png]]
-![[Pasted image 20251208032927.png]]
+
+## How it works:
 (work in progress)

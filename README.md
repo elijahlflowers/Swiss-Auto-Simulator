@@ -13,3 +13,14 @@ Secondly, as much I have made an attempt at an accurate prediction software, ple
 ![Swiss](ExampleImages/SwissSimulatorExample.png)
 ### Playoffs simulator
 ![Playoffs](ExampleImages/PlayoffsExample.png)
+
+## How to import saves:
+
+Insert the .tres file into the following folder:
+C:\Users\yourname\AppData\Roaming\Godot\app_userdata\CS2MajorPredictor\Saves
+
+![SavesInFolder](SavesFileExample.png)
+
+If it works, you should be able to see the save populated in the list within the program.
+
+![SavesInProgram](SavesProgramExample.png)

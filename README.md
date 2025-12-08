@@ -11,10 +11,8 @@ Lastly, I will try to explain more in-depth on how some of the values found in t
 
 ## Example images
 
-![[StarLadderBudapestStage3Example.png]]
-![[SwissSimulatorExample.png]]
-![[PlayoffsExample.png]]
-
-
+![StatsPage](StarLadderBudapestStage3Example.png)
+![Swiss](SwissSimulatorExample.png)
+![Playoffs](PlayoffsExample.png)
 ## How it works:
 (work in progress)

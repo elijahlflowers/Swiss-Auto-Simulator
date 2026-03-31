@@ -5,6 +5,9 @@ Project that simulates the results of the 16 seed Swiss tournament format (Buchh
 I created this as a way to make predictions for Picks Ems in Counter-Strike 2. As of now, it only follows the games current format of Swiss as seen [here](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/major-supplemental-rulebook.md).
 
 I have left some basic information about how the project works and how to use it within the program. Feel free to reach out for any problems or questions you have and I will get back to you. 
+
+You can access the web version of the project here:
+https://elijahlflowers.github.io/Swiss-Auto-Simulator/
 ## Example images
 ### Stats of teams at the PGL Bucharest 2026
 ![StatsPage](ExampleImages/BucharestStats.png)

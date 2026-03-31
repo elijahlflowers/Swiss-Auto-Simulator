@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cu82615pj3fly"
-path="res://.godot/imported/SwissAutoSimulator.apple-touch-icon.png-f892fe81c84e303030b6138163ccdd3d.ctex"
+uid="uid://dgh350x5pk4ev"
+path="res://.godot/imported/index.icon.png-37b0ec287dc921e61cd72f8d7ae90a77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web-export/SwissAutoSimulator.apple-touch-icon.png"
-dest_files=["res://.godot/imported/SwissAutoSimulator.apple-touch-icon.png-f892fe81c84e303030b6138163ccdd3d.ctex"]
+source_file="res://web-export/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-37b0ec287dc921e61cd72f8d7ae90a77.ctex"]
 
 [params]
 

@@ -22,7 +22,7 @@ https://elijahlflowers.github.io/Swiss-Auto-Simulator/
 ## How to import saves:
 
 Insert the .tres file into the following folder:
-C:\Users\yourname\AppData\Roaming\Godot\app_userdata\CS2MajorPredictor\Saves
+C:\Users\YourName\AppData\Roaming\Godot\app_userdata\Swiss Auto Simulator\Saves
 
 ![SavesInFolder](ExampleImages/SavesFileExample.png)
 

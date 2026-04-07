@@ -10,10 +10,14 @@ You can access the web version of the project here:
 https://elijahlflowers.github.io/Swiss-Auto-Simulator/
 ## Example images
 ### Stats of teams at Stage 1 of IEM Cologne 2026
-![StatsPage](ExampleImages/CologneStats.png)
+![StatsPage](ExampleImages/StatsPage.png)
 (stats gathered from [HLTV.org](https://www.hltv.org/events/8042/starladder-budapest-major-2025)):
 ### Map stats editor
 ![StatsPage](ExampleImages/MapStatsEditor.png)
+
+### Calculation Settings
+![CalculationSettings](ExampleImages/CalculationSettings.png)
+
 ### Swiss simulator
 ![Swiss](ExampleImages/SwissSimulatorExample.png)
 ### Playoffs simulator

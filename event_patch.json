@@ -1,0 +1,438 @@
+{
+	"map_results": [
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Ancient",
+			"winner": "betboom",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Dust II",
+			"winner": "betboom",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"map": "Mirage",
+			"winner": "betboom",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Nuke",
+			"winner": "betboom",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Overpass",
+			"winner": "betboom",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Ancient",
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Anubis",
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Cache",
+			"winner": "spirit",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Nuke",
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Ancient",
+			"winner": "legacy",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Dust II",
+			"winner": "legacy",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Inferno",
+			"winner": "legacy",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Mirage",
+			"winner": "legacy",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Anubis",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Dust II",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Mirage",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Nuke",
+			"winner": "vitality",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Overpass",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 3,
+			"map": "Ancient",
+			"winner": "mouz",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"map": "Dust II",
+			"winner": "mouz",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 3,
+			"map": "Mirage",
+			"winner": "mouz",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Nuke",
+			"winner": "mouz",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Overpass",
+			"winner": "mouz",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"map": "Ancient",
+			"winner": "g2",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Anubis",
+			"winner": "g2",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Dust II",
+			"winner": "g2",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Mirage",
+			"winner": "g2",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Overpass",
+			"winner": "g2",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Ancient",
+			"winner": "furia",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Anubis",
+			"winner": "furia",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"map": "Dust II",
+			"winner": "furia",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"map": "Mirage",
+			"winner": "furia",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Nuke",
+			"winner": "furia",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Overpass",
+			"winner": "furia",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Anubis",
+			"winner": "aurora",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Mirage",
+			"winner": "aurora",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Overpass",
+			"winner": "aurora",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Ancient",
+			"winner": "natus_vincere",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Dust II",
+			"winner": "natus_vincere",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Mirage",
+			"winner": "natus_vincere",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"map": "Ancient",
+			"winner": "parivision",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Anubis",
+			"winner": "parivision",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Dust II",
+			"winner": "parivision",
+			"wins": 4
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Inferno",
+			"winner": "parivision",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 3,
+			"map": "Mirage",
+			"winner": "parivision",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Ancient",
+			"winner": "m80",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 0,
+			"map": "Anubis",
+			"winner": "m80",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Mirage",
+			"winner": "m80",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Mirage",
+			"winner": "tyloo",
+			"wins": 0
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"map": "Overpass",
+			"winner": "tyloo",
+			"wins": 0
+		}
+	],
+	"maps": [],
+	"overall_results": [
+		{
+			"loser": "fut",
+			"losses": 6,
+			"winner": "betboom",
+			"wins": 4
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"winner": "spirit",
+			"wins": 3
+		},
+		{
+			"loser": "fut",
+			"losses": 3,
+			"winner": "legacy",
+			"wins": 4
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"winner": "vitality",
+			"wins": 6
+		},
+		{
+			"loser": "fut",
+			"losses": 8,
+			"winner": "mouz",
+			"wins": 5
+		},
+		{
+			"loser": "fut",
+			"losses": 6,
+			"winner": "g2",
+			"wins": 6
+		},
+		{
+			"loser": "fut",
+			"losses": 6,
+			"winner": "furia",
+			"wins": 5
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"winner": "aurora",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 1,
+			"winner": "natus_vincere",
+			"wins": 2
+		},
+		{
+			"loser": "fut",
+			"losses": 7,
+			"winner": "parivision",
+			"wins": 8
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"winner": "m80",
+			"wins": 1
+		},
+		{
+			"loser": "fut",
+			"losses": 2,
+			"winner": "tyloo",
+			"wins": 0
+		}
+	],
+	"patch_version": 1,
+	"teams": [
+		{
+			"external_id": "fut",
+			"team_color": "313030ff",
+			"team_logo": "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",
+			"team_name": "FUT"
+		}
+	]
+}

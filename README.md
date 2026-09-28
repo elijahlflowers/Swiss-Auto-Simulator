@@ -1,46 +1,34 @@
-# Swiss-Auto-Simulator
+# Swiss Auto Simulator
+![StatsPage](ExampleImages/icon.png)
 Project that simulates the results of the 16 seed Swiss tournament format (Buchholz system) based on user inserted statistics.
 ## About this project:
 
 I created this as a way to make predictions for Picks Ems in Counter-Strike 2. As of now, it only follows the games current format of Swiss as seen [here](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/major-supplemental-rulebook.md).
 
-I have left some basic information about how the project works and how to use it within the program. Feel free to reach out for any problems or questions you have and I will get back to you. 
+It utilizes the head-to-head data between cores (at least 3 players of a team) to calculate a customizable win percent value. It also contains specific win percent values for each map in the map pool. These values are used in the simulation to determine the odds of one team winning over another. This result will be used across the entire Swiss bracket. The bracket can be simulated many times in succession, with a point scoring system to allow you to see the results after multiple simulations. 
 
-You can access the web version of the project here:
-https://elijahlflowers.github.io/Swiss-Auto-Simulator/
-## Example images
-### Stats of teams at Stage 1 of IEM Cologne 2026
+There is plenty of customizability within the project to allow you to tweak the values, or simulation process as you wish. In no way is this project meant to be a perfect predictor, as many more factors go into the real results than the data being used. The best use case is not to take the results at face value, but rather to detect a pattern or to give you more insight as to what the most likely Swiss matchups may be.
+
+The project has an updating database of teams that are attending events with the Swiss format (plan to add other event formats in the future). New teams will be added overtime, and new results will be reflected in the existing team head to heads. All of the data is being manually added by me, since there isn't a way to ethically scrape the data from anywhere (that I am aware of). I will be using [HLTV](https://hltv.org) to get all of my data, and will do my best to ensure accuracy in my collection. You have to ability to add your own teams and results as well though, so it will always be possible to maintain the data yourself. 
+
+There is a downloadable exe version [here](https://github.com/elijahlflowers/Swiss-Auto-Simulator/releases) or you can access the web version of the project [here](https://elijahlflowers.github.io/Swiss-Auto-Simulator/)
+
+You can also find some other related tools I've created at [cs2ools.blue](https://cs2ools.blue/)
+
+Feel free to reach out with suggestions or issues you may have!
+## Screenshots
+### Edit Teams
 ![StatsPage](ExampleImages/StatsPage.png)
-(stats gathered from [HLTV.org](https://www.hltv.org/events/8042/starladder-budapest-major-2025)):
-### Map stats editor
+### Teams Database
+![TeamsDatabase](ExampleImages/TeamsDatabase.png)
+### Map Stats Editor
+
 ![StatsPage](ExampleImages/MapStatsEditor.png)
 
 ### Calculation Settings
 ![CalculationSettings](ExampleImages/CalculationSettings.png)
 
-### Swiss simulator
-![Swiss](ExampleImages/SwissSimulatorExample.png)
-### Playoffs simulator
-![Playoffs](ExampleImages/PlayoffsExample.png)
-
-## How to import saves:
-
-A list of example save files is located in the ExampleSaves folder of this project. After downloading it, you can use any of the following methods to import it into the program. A template save file will come loaded upon launching the program as well, without the need to download anything. 
-### Download version:
-
-#### Method 1 - Manual import:
-Insert the .json file(s) into the following folder:
-C:\Users\YourName\AppData\Roaming\Godot\app_userdata\Swiss Auto Simulator\Saves
-
-![SavesInFolder](ExampleImages/SavesFileExample.png)
-
-The program must be restarted if using this method. If it works, you should be able to see the save populated in the list within the program.
-
-#### Method 2 - Auto import:
-Above the list of saves, press the 'Import save' button. A file dialog should appear, from here you can select multiple .json save files to upload. The files should automatically appear in the list, if the file was valid.
-![SavesInProgram](ExampleImages/AutoImport.png)
-
-### Web version
-
-In the web version, there is no list of save files, so everything must be downloaded and loaded to and from your computer directly. Importing works in a similar way to Method 2 above, except you can only import 1 save. 
-
+### Swiss Simulator
+![Swiss](ExampleImages/SwissSimulator.png)
+### Playoffs Simulator
+![Playoffs](ExampleImages/PlayoffsSimulator.png)

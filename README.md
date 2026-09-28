@@ -1,5 +1,6 @@
 # Swiss Auto Simulator
 ![StatsPage](ExampleImages/icon.png)
+
 Project that simulates the results of the 16 seed Swiss tournament format (Buchholz system) based on user inserted statistics.
 ## About this project:
 

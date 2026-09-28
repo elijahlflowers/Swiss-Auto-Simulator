@@ -1,7 +1,5 @@
 # Swiss Auto Simulator
 ![StatsPage](ExampleImages/icon.png)
-
-Project that simulates the results of the 16 seed Swiss tournament format (Buchholz system) based on user inserted statistics.
 ## About this project:
 
 I created this as a way to make predictions for Picks Ems in Counter-Strike 2. As of now, it only follows the games current format of Swiss as seen [here](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/major-supplemental-rulebook.md).

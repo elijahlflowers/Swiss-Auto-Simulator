@@ -1,0 +1,190 @@
+{
+	"map_results": [
+		{
+			"loser": "falcons",
+			"losses": 0,
+			"map": "Anubis",
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "aurora",
+			"losses": 1,
+			"map": "Anubis",
+			"winner": "spirit",
+			"wins": 0
+		},
+		{
+			"loser": "mouz",
+			"losses": 1,
+			"map": "Dust II",
+			"winner": "spirit",
+			"wins": 0
+		},
+		{
+			"loser": "mouz",
+			"losses": 0,
+			"map": "Mirage",
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "falcons",
+			"losses": 0,
+			"map": "Mirage",
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "aurora",
+			"losses": 1,
+			"map": "Mirage",
+			"winner": "spirit",
+			"wins": 0
+		},
+		{
+			"loser": "mouz",
+			"losses": 1,
+			"map": "Nuke",
+			"winner": "spirit",
+			"wins": 0
+		},
+		{
+			"loser": "aurora",
+			"losses": 1,
+			"map": "Anubis",
+			"winner": "vitality",
+			"wins": 0
+		},
+		{
+			"loser": "aurora",
+			"losses": 0,
+			"map": "Cache",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "mouz",
+			"losses": 0,
+			"map": "Cache",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "mouz",
+			"losses": 0,
+			"map": "Dust II",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "parivision",
+			"losses": 0,
+			"map": "Dust II",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "mouz",
+			"losses": 0,
+			"map": "Inferno",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "parivision",
+			"losses": 0,
+			"map": "Inferno",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "aurora",
+			"losses": 0,
+			"map": "Mirage",
+			"winner": "vitality",
+			"wins": 1
+		},
+		{
+			"loser": "furia",
+			"losses": 0,
+			"map": "Inferno",
+			"winner": "mouz",
+			"wins": 1
+		},
+		{
+			"loser": "furia",
+			"losses": 0,
+			"map": "Nuke",
+			"winner": "mouz",
+			"wins": 1
+		},
+		{
+			"loser": "1win",
+			"losses": 0,
+			"map": "Anubis",
+			"winner": "aurora",
+			"wins": 1
+		},
+		{
+			"loser": "1win",
+			"losses": 0,
+			"map": "Dust II",
+			"winner": "aurora",
+			"wins": 1
+		}
+	],
+	"maps": [],
+	"overall_results": [
+		{
+			"loser": "mouz",
+			"losses": 2,
+			"winner": "spirit",
+			"wins": 1
+		},
+		{
+			"loser": "falcons",
+			"losses": 0,
+			"winner": "spirit",
+			"wins": 2
+		},
+		{
+			"loser": "aurora",
+			"losses": 2,
+			"winner": "spirit",
+			"wins": 0
+		},
+		{
+			"loser": "mouz",
+			"losses": 0,
+			"winner": "vitality",
+			"wins": 3
+		},
+		{
+			"loser": "aurora",
+			"losses": 1,
+			"winner": "vitality",
+			"wins": 2
+		},
+		{
+			"loser": "parivision",
+			"losses": 0,
+			"winner": "vitality",
+			"wins": 2
+		},
+		{
+			"loser": "furia",
+			"losses": 0,
+			"winner": "mouz",
+			"wins": 2
+		},
+		{
+			"loser": "1win",
+			"losses": 0,
+			"winner": "aurora",
+			"wins": 2
+		}
+	],
+	"patch_version": 7,
+	"teams": []
+}

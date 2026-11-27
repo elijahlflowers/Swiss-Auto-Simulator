@@ -30,4 +30,4 @@ You can also find some other related tools I've created at [cs2ools.blue](https:
 ### Bracket Simulator
 ![Playoffs](ExampleImages/PlayoffsSimulator.png)
 ### Bracket Editor
-![[BracketEditor.png]]
+![BracketEdit](ExampleImages/BracketEditor.png)

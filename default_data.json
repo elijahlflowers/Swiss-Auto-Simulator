@@ -4,7 +4,7 @@
 	"active_team_lists": {},
 	"adj_scope": 1,
 	"app_version": "2.3",
-	"applied_default_hash": "ac3663f1f0903db415c7d0514f654a8c4f21d01f5c5eda556b24c3e861ee706c",
+	"applied_default_hash": "c3c2c2f023c932a472df9092a912e66eee0eff7460fd754f32021c5e6e6afdee",
 	"bracket_assignments": {},
 	"bracket_team_lists": {},
 	"brackets": {
@@ -243,12 +243,12 @@
 			"1792026175_1922097737",
 			"1792310775_2509754076",
 			"1792309770_2385454501",
+			"1790903323_418593968",
 			"1793517051_3551237634",
 			"1790214363_2552926398",
-			"1790903323_418593968",
-			"1795766486_3899280230",
+			"1793518150_2134792767",
 			"1793577437_2089916903",
-			"1795766486_107902792"
+			"1793577332_3666578662"
 		],
 		"PGL Singapore Stage 3": [
 			"1790214224_1042358992",
@@ -296,18 +296,18 @@
 		"ow": "0.5",
 		"s": "1x",
 		"sd": 1.0,
-		"si": "1.0",
+		"si": "1",
 		"swiss_bo3_active": false,
-		"use_custom_adj": true,
-		"w": "0.65"
+		"use_custom_adj": false,
+		"w": "0.5"
 	},
 	"sim_results": {},
 	"statbar": {
 		"by": "asc",
 		"map": "none",
-		"method": "seeds",
+		"method": "all",
 		"result": "none",
-		"stat": "winpadj"
+		"stat": "maps"
 	},
 	"swiss_format": 0,
 	"teams": [
@@ -12994,5 +12994,5 @@
 			"wins": 3
 		}
 	],
-	"use_custom_adj": true
+	"use_custom_adj": false
 }
